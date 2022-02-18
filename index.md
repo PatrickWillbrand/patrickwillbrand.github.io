@@ -1,8 +1,8 @@
 # Patrick Willbrand
 <img align="right" width="100" height="100" src="https://avatars.githubusercontent.com/u/19550435?v=4">
-:mortar_board: Fachinformatiker Anwendungsentwicklung (WIP B.Sc.)
-:cake: 22.02.1992
-:house: Leer (Ostfriesland)
+:mortar_board: Fachinformatiker Anwendungsentwicklung (WIP B.Sc.)  
+:cake: 22.02.1992  
+:house: Leer (Ostfriesland)  
 
 # Berufserfahrung
 
