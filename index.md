@@ -78,7 +78,7 @@ August 2008 bis Juni 2010
 
 # Sprachen
 
-Deutsch - Muttersprache
+Deutsch - Muttersprache  
 Englisch - Verhandlungssicher
 
 * * *
