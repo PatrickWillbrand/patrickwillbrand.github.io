@@ -1,9 +1,12 @@
 # Berufserfahrung
 
+---
 ## Softwareentwickler
 ### Wildeboer Bauteile GmbH
 März 2018 bis heute
+---
 
+---
 ## Softwareentwickler
 ### Hiltes Software GmbH
 Juni 2014 bis März 2018
@@ -15,7 +18,9 @@ Juni 2014 bis März 2018
 * Durchführung interner Schulungen für Softwareentwickler
 
 `C#` `.NET` `ASP.NET` `WPF` `Windows Forms`
+---
 
+---
 ## Ausbildung Fachinformatiker Anwendungsentwicklung
 ## Hiltes Software GmbH
 August 2011 bis Juni 2014
@@ -25,6 +30,7 @@ August 2011 bis Juni 2014
 * Anbindung von Schnittstellen
 
 `C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `Magento`
+---
 
 * * *
 
