@@ -38,6 +38,18 @@ August 2011 bis Juni 2014
 
 # Bildungsweg
 
+## Bachelor of Science
+### Wilhelm Büchner Hochschule
+Januar 2020 bis jetzt
+
+## Fachoberschule - Technik - Fachhochschulereife
+### BBS Varel
+August 2010 bis Juni 2011
+
+## Technischer Assistent für Informatik
+### BBS Varel
+August 2008 bis Juni 2010
+
 * * *
 
 # Kenntnisse
