@@ -59,29 +59,27 @@ August 2008 bis Juni 2010
 | Technische Skills         |                                    |
 |:--------------------------|:-----------------------------------|
 | C#/.NET                   | :star: :star: :star: :star: :star: |
-| WinForms                  | :star: :star: :star: :star:        |
-| WPF                       | :star: :star: :star: :star:        |
-| ASP.NET Core              | :star: :star: :star:               |
-| Docker                    | :star:                             |
-| HTML                      | :star: :star:                      |
-| CSS                       | :star: :star:                      |
-| JavaScript                | :star:                             |
+| WinForms                  |        :star: :star: :star: :star: |
+| WPF                       |        :star: :star: :star: :star: |
+| ASP.NET Core              |               :star: :star: :star: |
+| Docker                    |                             :star: |
+| HTML                      |                      :star: :star: |
+| CSS                       |                      :star: :star: |
+| JavaScript                |                             :star: |
 
 | Methodische Skills        |                                     |
-|:--------------------------|:------------------------------------|
-| Kanban                    | :star: :star: :star: :star:         |
-| Scrum                     | :star: :star:                       |
-| Clean Code                | :star: :star: :star: :star:         |
+|:--------------------------|:-----------------------------------|
+| Kanban                    |        :star: :star: :star: :star: |
+| Scrum                     |                      :star: :star: |
+| Clean Code                |        :star: :star: :star: :star: |
 
 
 * * *
 
 # Sprachen
 
-| Sprachen                  |                      |
-|:--------------------------|:---------------------|
-| Deutsch                   | Muttersprache        |
-| Englisch                  | Verhandlungssicher   |
+Deutsch - Muttersprache
+Englisch - Verhandlungssicher
 
 * * *
 
