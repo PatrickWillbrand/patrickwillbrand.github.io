@@ -42,7 +42,7 @@ August 2011 bis Juni 2014
 ### Wilhelm Büchner Hochschule
 Januar 2020 bis jetzt
 
-## Fachoberschule - Technik - Fachhochschulereife
+## Fachoberschule - Technik - Fachhochschulreife
 ### BBS Varel
 August 2010 bis Juni 2011
 
