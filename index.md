@@ -10,7 +10,7 @@ März 2018 bis heute
 * Entwicklung von Anwendungen für den Personalbereich
 * Pflege, Instandhaltung und Erweiterung der entwickelten Software
 
-`C#` `.NET` `ASP.NET Core` `WPF` `Windows Forms` `Hangfire` `Docker`
+`C#` `.NET` `ASP.NET Core` `WPF` `Windows Forms` `Hangfire` `Docker` `Kanban`
 
 ## Softwareentwickler
 ### Hiltes Software GmbH
