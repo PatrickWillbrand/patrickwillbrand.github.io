@@ -58,22 +58,22 @@ August 2008 bis Juni 2010
 
 # Kenntnisse
 
-| Technische Skills         |                                    |
-|:--------------------------|:-----------------------------------|
-| C#/.NET                   | :star: :star: :star: :star: :star: |
-| WinForms                  |        :star: :star: :star: :star: |
-| WPF                       |        :star: :star: :star: :star: |
-| ASP.NET Core              |               :star: :star: :star: |
-| Docker                    |                             :star: |
-| HTML                      |                      :star: :star: |
-| CSS                       |                      :star: :star: |
-| JavaScript                |                             :star: |
+| Technische Skills         |                                                             |
+|:--------------------------|:------------------------------------------------------------|
+| C#/.NET                   | <div align="right">:star: :star: :star: :star: :star: <div> |
+| WinForms                  |       <div align="right"> :star: :star: :star: :star: <div> |
+| WPF                       |       <div align="right"> :star: :star: :star: :star: <div> |
+| ASP.NET Core              |       <div align="right">        :star: :star: :star: <div> |
+| Docker                    |                            <div align="right"> :star: <div> |
+| HTML                      |                     <div align="right"> :star: :star: <div> |
+| CSS                       |                     <div align="right"> :star: :star: <div> |
+| JavaScript                |                            <div align="right"> :star: <div> |
 
-| Methodische Skills        |                                     |
-|:--------------------------|:-----------------------------------|
-| Kanban                    |        :star: :star: :star: :star: |
-| Scrum                     |                      :star: :star: |
-| Clean Code                |        :star: :star: :star: :star: |
+| Methodische Skills        |                                                             |
+|:--------------------------|:------------------------------------------------------------|
+| Kanban                    |       <div align="right"> :star: :star: :star: :star: <div> |
+| Scrum                     |                     <div align="right"> :star: :star: <div> |
+| Clean Code                |       <div align="right"> :star: :star: :star: :star: <div> |
 
 
 * * *
