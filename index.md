@@ -20,6 +20,10 @@ Juni 2014 bis März 2018
 ## Hiltes Software GmbH
 August 2011 bis Juni 2014
 
+* Entwicklung von C#-Applikationen
+* Entwicklung von ASP.NET-Anwendungen
+* Anbindung von Schnittstellen
+
 * * *
 
 # Bildungsweg
