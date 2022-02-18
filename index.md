@@ -54,6 +54,13 @@ August 2008 bis Juni 2010
 
 # Kenntnisse
 
+| Technische Skills         |                                     |
+|:--------------------------|:------------------------------------|
+| C#/.NET                   | :star: :star: :star: :star: :star:  |
+| WinForms                  | :star: :star: :star: :star:         |
+| WPF                       | :star: :star: :star: :star:         |
+| ASP.NET Core              | :star: :star: :star:                |
+
 * * *
 
 # Sprachen
