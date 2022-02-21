@@ -20,7 +20,7 @@ März 2018 bis heute
 * Entwicklung von Anwendungen für den Personalbereich
 * Pflege, Instandhaltung und Erweiterung der entwickelten Software
 
-`C#` `.NET` `ASP.NET Core` `WPF` `Windows Forms` `Hangfire` `Docker` `Kanban` `HTML` `CSS` `JavaScript`
+`C#` `.NET` `ASP.NET Core` `WPF` `Windows Forms` `SQL` `Hangfire` `Docker` `Kanban` `HTML` `CSS` `JavaScript`
 
 ## Softwareentwickler
 ### Hiltes Software GmbH
@@ -32,7 +32,7 @@ Juni 2014 bis März 2018
 * Pflege, Instandhaltung und Erweiterung der entwickelten Software
 * Durchführung interner Schulungen für Softwareentwickler
 
-`C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `HTML` `CSS` `JavaScript`
+`C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `SQL` `HTML` `CSS` `JavaScript`
 
 ## Ausbildung Fachinformatiker Anwendungsentwicklung
 ### Hiltes Software GmbH
@@ -42,7 +42,7 @@ August 2011 bis Juni 2014
 * Entwicklung von ASP.NET-Anwendungen
 * Anbindung von Schnittstellen
 
-`C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `Magento` `HTML` `CSS` `JavaScript`
+`C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `SQL` `Magento` `HTML` `CSS` `JavaScript`
 
 * * *
 
@@ -67,6 +67,7 @@ August 2008 bis Juni 2010
 | Technische Skills         |                                                             |
 |:--------------------------|:------------------------------------------------------------|
 | C#/.NET                   | <div align="right">:star: :star: :star: :star: :star: <div> |
+| SQL                       |       <div align="right"> :star: :star: :star: :star: <div> |
 | WinForms                  |       <div align="right"> :star: :star: :star: :star: <div> |
 | WPF                       |       <div align="right"> :star: :star: :star: :star: <div> |
 | ASP.NET Core              |       <div align="right">        :star: :star: :star: <div> |
