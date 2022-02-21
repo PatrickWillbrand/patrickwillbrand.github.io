@@ -96,4 +96,4 @@ Englisch - Verhandlungssicher
 * Sport
 * Lesen
 * Gitarre spielen
-* Rudern, Drachenboot
+* Rudern und Drachenboot
