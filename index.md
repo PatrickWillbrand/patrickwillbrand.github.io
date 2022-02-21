@@ -6,6 +6,8 @@
 
 :house: Leer (Ostfriesland)  
 
+* * *
+
 # Berufserfahrung
 
 ## Softwareentwickler
