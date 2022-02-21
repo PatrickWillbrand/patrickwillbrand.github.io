@@ -20,7 +20,7 @@ März 2018 bis heute
 * Entwicklung von Anwendungen für den Personalbereich
 * Pflege, Instandhaltung und Erweiterung der entwickelten Software
 
-`C#` `.NET` `ASP.NET Core` `WPF` `Windows Forms` `SQL` `Hangfire` `Docker` `Kanban` `HTML` `CSS` `JavaScript`
+`C#` `.NET` `ASP.NET Core` `WPF` `Windows Forms` `SQL` `Oracle` `Hangfire` `Docker` `Kanban` `HTML` `CSS` `JavaScript`
 
 ## Softwareentwickler
 ### Hiltes Software GmbH
@@ -32,7 +32,7 @@ Juni 2014 bis März 2018
 * Pflege, Instandhaltung und Erweiterung der entwickelten Software
 * Durchführung interner Schulungen für Softwareentwickler
 
-`C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `SQL` `HTML` `CSS` `JavaScript`
+`C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `SQL` `MSSQL` `MySQL` `HTML` `CSS` `JavaScript`
 
 ## Ausbildung Fachinformatiker Anwendungsentwicklung
 ### Hiltes Software GmbH
@@ -42,7 +42,7 @@ August 2011 bis Juni 2014
 * Entwicklung von ASP.NET-Anwendungen
 * Anbindung von Schnittstellen
 
-`C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `SQL` `Magento` `HTML` `CSS` `JavaScript`
+`C#` `.NET` `ASP.NET` `WPF` `Windows Forms` `SQL` `MSSQL` `MySQL` `Magento` `HTML` `CSS` `JavaScript`
 
 * * *
 
