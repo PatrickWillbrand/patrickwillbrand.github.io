@@ -71,10 +71,10 @@ August 2008 bis Juni 2010
 | WPF                       |       <div align="right"> :star: :star: :star: :star: <div> |
 | ASP.NET Core              |       <div align="right">        :star: :star: :star: <div> |
 | Docker                    |                            <div align="right"> :star: <div> |
-| HTML                      |                     <div align="right"> :star: :star: <div> |
-| CSS                       |                     <div align="right"> :star: :star: <div> |
-| JavaScript                |                            <div align="right"> :star: <div> |
-
+| HTML                      |              <div align="right"> :star: :star: :star: <div> |
+| CSS                       |              <div align="right"> :star: :star: :star: <div> |
+| JavaScript                |                     <div align="right"> :star: :star: <div> |
+  
 | Methodische Skills        |                                                             |
 |:--------------------------|:------------------------------------------------------------|
 | Kanban                    |       <div align="right"> :star: :star: :star: :star: <div> |
