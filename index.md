@@ -50,6 +50,7 @@ August 2011 bis Juni 2014
 ## Bachelor of Science
 ### Wilhelm Büchner Hochschule
 Januar 2020 bis April 2024
+
 Thesis: Die Zukunft des Angebotswesens - Eine empirische Analyse von künstlich neuronalen Netzen zur automatischen Angebotserstellung aus Leistungsverzeichnissen
 
 ## Fachoberschule - Technik - Fachhochschulreife
