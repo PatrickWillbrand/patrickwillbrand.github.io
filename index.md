@@ -49,7 +49,8 @@ August 2011 bis Juni 2014
 
 ## Bachelor of Science
 ### Wilhelm Büchner Hochschule
-Januar 2020 bis jetzt
+Januar 2020 bis April 2024
+Thesis: Die Zukunft des Angebotswesens - Eine empirische Analyse von künstlich neuronalen Netzen zur automatischen Angebotserstellung aus Leistungsverzeichnissen
 
 ## Fachoberschule - Technik - Fachhochschulreife
 ### BBS Varel
@@ -74,12 +75,16 @@ August 2008 bis Juni 2010
 | HTML                      |              <div align="right"> :star: :star: :star: <div> |
 | CSS                       |              <div align="right"> :star: :star: :star: <div> |
 | JavaScript                |                     <div align="right"> :star: :star: <div> |
+| Python                    |              <div align="right"> :star: :star: :star: <div> |
+| TensorFlow                |                     <div align="right"> :star: :star: <div> |
+| PyTorch                   |                            <div align="right"> :star: <div> |
   
 | Methodische Skills        |                                                             |
 |:--------------------------|:------------------------------------------------------------|
 | Kanban                    |       <div align="right"> :star: :star: :star: :star: <div> |
 | Scrum                     |                     <div align="right"> :star: :star: <div> |
 | Clean Code                |       <div align="right"> :star: :star: :star: :star: <div> |
+| Machine Learning          |                     <div align="right"> :star: :star: <div> |
 
 
 * * *
