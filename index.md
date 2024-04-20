@@ -1,5 +1,5 @@
 # Patrick Willbrand
-:mortar_board: Bachelor of Science
+:mortar_board: Bachelor of Science - Informatik
 
 :cake: 22.02.1992  
 
