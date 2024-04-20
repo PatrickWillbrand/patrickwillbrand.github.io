@@ -12,7 +12,7 @@
 ## Softwareentwickler
 ### Wildeboer Bauteile GmbH
 März 2018 bis heute
-* Weiterentwicklung der Webapplikationen auf Basis von Blazor
+* Weiterentwicklung einer Webapplikationen für Kunden auf Basis von Blazor
 * Weiterentwicklung einer Software für die Dimensionierung von Produkten
 * Konzeption und Entwicklung eines Ticketsystems für die Instandhaltung
 * Entwicklung von Anwendungen um Prozesse im Hintergrund auszuführen und zu konfigurieren
