@@ -86,6 +86,7 @@ August 2008 bis Juni 2010
 | Scrum                     |                     <div align="right"> :star: :star: <div> |
 | Clean Code                |       <div align="right"> :star: :star: :star: :star: <div> |
 | Machine Learning          |                     <div align="right"> :star: :star: <div> |
+| Data Science              |                     <div align="right"> :star: :star: <div> |
 
 
 * * *
