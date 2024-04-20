@@ -1,5 +1,5 @@
 # Patrick Willbrand
-:mortar_board: Fachinformatiker Anwendungsentwicklung (WIP B.Sc.)  
+:mortar_board: Bachelor of Science
 
 :cake: 22.02.1992  
 
