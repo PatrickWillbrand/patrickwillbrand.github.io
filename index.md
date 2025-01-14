@@ -72,7 +72,8 @@ August 2008 bis Juni 2010
 | WinForms                  |       <div align="right"> :star: :star: :star: :star: <div> |
 | WPF                       |       <div align="right"> :star: :star: :star: :star: <div> |
 | ASP.NET Core              |       <div align="right">        :star: :star: :star: <div> |
-| Docker                    |                            <div align="right"> :star: <div> |
+| Docker                    |                     <div align="right"> :star: :star: <div> |
+| Linux                     |                     <div align="right"> :star: :star: <div> |
 | HTML                      |              <div align="right"> :star: :star: :star: <div> |
 | CSS                       |              <div align="right"> :star: :star: :star: <div> |
 | JavaScript                |                     <div align="right"> :star: :star: <div> |
